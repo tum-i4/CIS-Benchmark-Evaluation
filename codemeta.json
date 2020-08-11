@@ -1,0 +1,53 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "license": "https://spdx.org/licenses/GPL-3.0+",
+    "codeRepository": "git+https://github.com/tum-i22/CIS-Benchmark-Evaluation.git",
+    "dateCreated": "2020-02-19",
+    "datePublished": "2020-08-11",
+    "issueTracker": "https://github.com/tum-i22/CIS-Benchmark-Evaluation/issues",
+    "name": "CIS Benchmark Evaluation",
+    "description": "This repository is part of the paper *Automated Implementation of Windows-related Security-Configuration Guides* presented at the 35th IEEE/ACM International Conference on Automated Software Engineering.\nIt contains the result of checks before and after a system was secured using the approach presented in the corresponding paper.",
+    "applicationCategory": "Computer Science",
+    "keywords": [
+        "Configuration Management",
+        "Security"
+    ],
+    "programmingLanguage": [
+        "HTML"
+    ],
+    "author": [
+        {
+            "@type": "Person",
+            "@id": "https://www.in.tum.de/en/i04/stoeckle/",
+            "givenName": "Patrick",
+            "familyName": "Stöckle",
+            "email": "patrick.stoeckle@tum.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Chair of Software and Systems Engineering, Department of Informatics, Technical University of Munich"
+            }
+        },
+        {
+            "@type": "Person",
+            "givenName": "Bernd",
+            "familyName": "Grobauer",
+            "email": "bernd.grobauer@siemens.com",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Siemens AG"
+            }
+        },
+        {
+            "@type": "Person",
+            "@id": "https://www.in.tum.de/en/i04/people/alexander-pretschner/",
+            "givenName": "Alexander",
+            "familyName": "Pretschner",
+            "email": "alexander.pretschner@tum.de",
+            "affiliation": {
+                "@type": "Organization",
+                "name": "Chair of Software and Systems Engineering, Department of Informatics, Technical University of Munich"
+            }
+        }
+    ]
+}
