@@ -1,5 +1,6 @@
 # CIS Benchmark Evaluation
 
+This repository is part of the paper *Automated Implementation of Windows-related Security-Configuration Guides* presented at the 35th IEEE/ACM International Conference on Automated Software Engineering.
 In this repository, we have collected our evaluation data using 12 benchmarks of the [Center for Internet Security (CIS)](https://www.cisecurity.org/).
 For each benchmark:
 
