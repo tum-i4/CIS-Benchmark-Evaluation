@@ -6,21 +6,28 @@ message: >-
   metadata from this file.
 type: dataset
 authors:
-  - given-names: Patrick
-    family-names: Stöckle
-    email: patrick.stoeckle@tum.de
-    affiliation: Technical University of Munich
-    orcid: 'https://orcid.org/0000-0003-0193-5871'
-  - given-names: Bernd
-    family-names: Grobauer
-    email: bernd.grobauer@siemens.com
-    affiliation: Siemens AG
-  - given-names: Alexander
-    family-names: Pretschner
-    email: alexander.pretschner@tum.de
-    affiliation: Technical University of Munich
-    orcid: 'https://orcid.org/0000-0002-5573-1201'
-repository-code: 'https://github.com/tum-i4/CIS-Benchmark-Evaluation'
+- given-names: Patrick
+  family-names: Stöckle
+  email: patrick.stoeckle@tum.de
+  affiliation: Technical University of Munich
+  orcid: 'https://orcid.org/0000-0003-0193-5871'
+  city: Munich
+  country: DE
+  website: https://www.in.tum.de/en/i04/stoeckle/
+- given-names: Bernd
+  family-names: Grobauer
+  email: bernd.grobauer@siemens.com
+  affiliation: Siemens AG
+  country: DE
+- given-names: Alexander
+  family-names: Pretschner
+  email: alexander.pretschner@tum.de
+  affiliation: Technical University of Munich
+  orcid: 'https://orcid.org/0000-0002-5573-1201'
+  city: Munich
+  country: DE
+  website: https://www.in.tum.de/en/i04/people/alexander-pretschner/
+repository-code: 'https://github.com/tum-i4/disa-windows-server-2016'
 keywords:
   - Configuration management
   - Security
@@ -32,7 +39,7 @@ preferred-citation:
   isbn: "9781450367684"
   publisher: 
     name: Association for Computing Machinery
-    country: USA
+    country: US
     region: NY
     city: New York 
   url: 'https://doi.org/10.1145/3324884.3416540'
@@ -53,13 +60,20 @@ preferred-citation:
     email: patrick.stoeckle@tum.de
     affiliation: Technical University of Munich
     orcid: 'https://orcid.org/0000-0003-0193-5871'
+    city: Munich
+    country: DE
+    website: https://www.in.tum.de/en/i04/stoeckle/
   - given-names: Bernd
     family-names: Grobauer
     email: bernd.grobauer@siemens.com
     affiliation: Siemens AG
+    country: DE
   - given-names: Alexander
     family-names: Pretschner
     email: alexander.pretschner@tum.de
     affiliation: Technical University of Munich
-  orcid: 'https://orcid.org/0000-0002-5573-1201'
+    orcid: 'https://orcid.org/0000-0002-5573-1201'
+    city: Munich
+    country: DE
+    website: https://www.in.tum.de/en/i04/people/alexander-pretschner/
   type: conference-paper
